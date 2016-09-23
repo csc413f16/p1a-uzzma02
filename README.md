@@ -1,8 +1,10 @@
-Name:
+Name:Uzma Javed
 
-Compilation and Run Successful:
+Compilation and Run Successful: Compilation and run were both successful
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: Unit Test passed successfully
+
+Problems Encountered: At first Android Studio could not sync with my Github account probably because Git was registered under another IDE, CLion. So after uninstalling and reinstalling Android Studio on my laptop and choosing the appropriate SDK platform and tools, I was able to fix this problem and successfully compile the application. However, the emulator did not show up and so after quite a considerable amount of research and a few tweeks in the settings, I was able to get it running and ran the application on it. 
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
